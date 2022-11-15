@@ -1,0 +1,12 @@
+D:\wcf service\multiple\multiple\bin\multiple.dll.config
+D:\wcf service\multiple\multiple\bin\multiple.dll
+D:\wcf service\multiple\multiple\bin\multiple.pdb
+D:\wcf service\multiple\multiple\bin\EntityFramework.dll
+D:\wcf service\multiple\multiple\bin\EntityFramework.SqlServer.dll
+D:\wcf service\multiple\multiple\bin\EntityFramework.xml
+D:\wcf service\multiple\multiple\bin\EntityFramework.SqlServer.xml
+D:\wcf service\multiple\multiple\obj\Debug\multiple.csproj.AssemblyReference.cache
+D:\wcf service\multiple\multiple\obj\Debug\multiple.csproj.CoreCompileInputs.cache
+D:\wcf service\multiple\multiple\obj\Debug\multiple.csproj.CopyComplete
+D:\wcf service\multiple\multiple\obj\Debug\multiple.dll
+D:\wcf service\multiple\multiple\obj\Debug\multiple.pdb
